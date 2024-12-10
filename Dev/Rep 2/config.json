@@ -1,9 +1,9 @@
 {
-    "twitter_api_key": "YzNtTunkvIzNhxD3fMumbF8hm",
-    "twitter_api_secret_key": "DNP8mngx0PI2xGrUZvrmSyKBLs3EufWDWajELyzNvrve5xNIWg",
-    "twitter_access_token": "1219146640260521984-XNDxRx2sWn4IXhrq5QwZ2THhdc2bVw",
-    "twitter_access_token_secret": "A1KgKzdoMuRC9TRwRUZmnoTLJmIdzUA6irMl7vHpzF5HH",
-    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAJGIxQEAAAAAp7rcndKuKdNYIQvT44yPfEh6k6g%3D9GOqjWxQafghmzVOV3cIRlk5e4dVPqfwDj5AyEGe3zcIBTjlGg",
+    "twitter_api_key": "Insert Your API Key",
+    "twitter_api_secret_key": "Insert Your Secret API Key",
+    "twitter_access_token": "Insert Your Access Token",
+    "twitter_access_token_secret": "Insert Your Secret Access Token",
+    "bearer_token": "Insert Your Bearer Token",
     "polarity_positive_threshold": 0.2,
     "polarity_negative_threshold": -0.2,
     "default_tweet_count": 200
